@@ -8,7 +8,5 @@ Nam consectetur neque at lacus ullamcorper varius. Fusce nec rhoncus massa. Duis
 Vestibulum gravida arcu in fringilla commodo. Sed at tellus at lacus condimentum dignissim. Curabitur sit amet rutrum lectus, vitae convallis quam. Donec a mi ultricies, efficitur felis nec, suscipit mi. Nulla justo nisi, congue et metus eu, placerat gravida tellus. Quisque turpis turpis, tincidunt non ex et, fermentum faucibus dui. Morbi posuere, est non viverra condimentum, purus risus egestas tellus, in vulputate sapien velit eget nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie hendrerit placerat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut mi nulla, faucibus a elit vitae, scelerisque porta arcu. Suspendisse dui libero, ultrices sit amet commodo sed, efficitur eu nulla. Aenean euismod purus eu urna viverra, vitae ultricies lorem porta. Vivamus vel mi a augue sagittis sodales. Sed ac justo sollicitudin, mattis ante eu, consectetur tellus. Fusce vitae risus libero.
 
 Donec ac nibh a velit auctor sodales a a metus. Aliquam consectetur ipsum erat, a vehicula metus dignissim in. Fusce pretium dictum orci, sed malesuada lectus facilisis quis. Nulla sit amet gravida turpis. Maecenas euismod arcu vitae risus pharetra, in suscipit turpis tempus. Donec eu ligula finibus sapien condimentum dignissim. Integer ante ligula, feugiat vel ipsum pellentesque, sodales sollicitudin purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
-<<<<<<< Updated upstream
-=======
+
 And that's how the story ends.
->>>>>>> Stashed changes
